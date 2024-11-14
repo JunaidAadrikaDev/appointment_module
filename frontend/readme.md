@@ -1,2 +1,0 @@
-/lib/ axiosInstance 
-dashboar/blog 
